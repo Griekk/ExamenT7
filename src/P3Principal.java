@@ -45,6 +45,7 @@ public class P3Principal extends JFrame {
         setVisible(true);
     }
 
+
     private void cambiarTurno() {
         turno = !turno;
     }
