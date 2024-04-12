@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Ej1 {
+public class P1MenuColoresFrame {
     public static void main(String[] args) {
         JFrame ventana = new JFrame("Colores");
 
